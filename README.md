@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 🔎 My Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=hubertushans88&theme=tokyonight&show_icons=true&hide_border=true" alt="Hubertus Hans's Github Stats"/>
 <!--
 **hubertushans88/hubertushans88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
